@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationAppLovin",
-            url: "https://github.com/geniee-ssp/geniee-ios-mediation-applovin/releases/download/13.6.200/GenieeMediationAppLovin.13.6.2.0.zip",
-            checksum: "bc461765d6475a3461c7f237685fbc0f6a798b04230079988ec1a70452703361"
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-applovin/releases/download/13.6.201/GenieeMediationAppLovin.13.6.2.1.zip",
+            checksum: "ba68f74872a6ec782bcbffb188f55ba476fb9eca261b0fc82eebbfe4610b770e"
         )
     ]
 )
