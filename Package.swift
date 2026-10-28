@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/geniee-ssp/swift-package-manager-geniee-ios-sdk.git",
-            from: "8.4.3"
+            from: "8.5.1"
         ),
         .package(
             url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationAppLovin",
-            url: "https://github.com/geniee-ssp/geniee-ios-mediation-applovin/releases/download/13.6.201/GenieeMediationAppLovin.13.6.2.1.zip",
-            checksum: "ba68f74872a6ec782bcbffb188f55ba476fb9eca261b0fc82eebbfe4610b770e"
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-applovin/releases/download/13.6.202/GenieeMediationAppLovin.13.6.2.2.zip",
+            checksum: "a3118d02f17785443da2a4fd920057a2034cb0f584327298e00e80086939c55f"
         )
     ]
 )
